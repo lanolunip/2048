@@ -1,2 +1,2 @@
 # 2048
-# Game 2048 yang belum selesai
+Game 2048 yang belum selesai
